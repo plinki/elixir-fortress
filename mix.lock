@@ -1,0 +1,6 @@
+%{
+  "httpotion": {:hex, :httpotion, "2.2.2", "f1ce1a06f6a12ee195d9b2c458c3239efc8046f2b8247e708606cad5a3f2c7d8", [:mix], [{:ibrowse, "~> 4.2", [hex: :ibrowse, repo: "hexpm", optional: false]}], "hexpm"},
+  "ibrowse": {:hex, :ibrowse, "4.4.1", "2b7d0637b0f8b9b4182de4bd0f2e826a4da2c9b04898b6e15659ba921a8d6ec2", [], [], "hexpm"},
+  "jazz": {:hex, :jazz, "0.2.2", "3ef25555024d016655edda84bce5e9e3bc8692d06e51e63619d1c4fac3660607", [:mix], [], "hexpm"},
+  "webdriver": {:git, "https://github.com/stuart/elixir-webdriver.git", "e7037312decab6646b2107b7345f2974b24a9d15", []},
+}
